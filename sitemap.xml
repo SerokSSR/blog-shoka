@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snow.js.org/snow/</loc>
+    <lastmod>2022-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/ning-mei/</loc>
+    <lastmod>2022-07-14</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/3rd-snow/</loc>
     <lastmod>2022-02-21</lastmod>
   </url>
   <url>
     <loc>https://snow.js.org/mo-shang/</loc>
-    <lastmod>2022-02-21</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/snow/</loc>
     <lastmod>2022-02-21</lastmod>
   </url>
   <url>
@@ -98,14 +102,6 @@
   </url>
   <url>
     <loc>https://snow.js.org/butterfly-aplayer/</loc>
-    <lastmod>2022-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/ning-mei/</loc>
-    <lastmod>2022-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/ning-mei-2/</loc>
     <lastmod>2022-01-14</lastmod>
   </url>
   <url>
