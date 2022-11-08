@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snow.js.org/foreshow/</loc>
+    <lastmod>2022-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/snow/</loc>
+    <lastmod>2022-11-08</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/ning-mei/</loc>
     <lastmod>2022-08-13</lastmod>
   </url>
   <url>
     <loc>https://snow.js.org/album-loch/</loc>
-    <lastmod>2022-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/snow/</loc>
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
@@ -77,11 +81,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/still-using-stl-sort/</loc>
+    <loc>https://snow.js.org/network-flow-deloop/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/network-flow-deloop/</loc>
+    <loc>https://snow.js.org/still-using-stl-sort/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -97,11 +101,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/network-flow-dijkstra/</loc>
+    <loc>https://snow.js.org/minimum-cut/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/minimum-cut/</loc>
+    <loc>https://snow.js.org/network-flow-dijkstra/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -109,11 +113,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/future/</loc>
+    <loc>https://snow.js.org/mabaoguo/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/mabaoguo/</loc>
+    <loc>https://snow.js.org/future/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -129,11 +133,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/dp-linear/</loc>
+    <loc>https://snow.js.org/match-template/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/match-template/</loc>
+    <loc>https://snow.js.org/dp-linear/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -141,11 +145,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/graph-lca/</loc>
+    <loc>https://snow.js.org/graph-tarjan/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/graph-tarjan/</loc>
+    <loc>https://snow.js.org/graph-lca/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
