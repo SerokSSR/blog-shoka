@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snow.js.org/omicron-bf7/</loc>
+    <lastmod>2022-12-16</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/foreshow/</loc>
     <lastmod>2022-11-08</lastmod>
   </url>
@@ -53,11 +57,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/stl-set/</loc>
+    <loc>https://snow.js.org/noip-d2t1/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/noip-d2t1/</loc>
+    <loc>https://snow.js.org/stl-set/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -101,15 +105,19 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/minimum-cut/</loc>
-    <lastmod>2022-08-02</lastmod>
-  </url>
-  <url>
     <loc>https://snow.js.org/network-flow-dijkstra/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
+    <loc>https://snow.js.org/minimum-cut/</loc>
+    <lastmod>2022-08-02</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/monotonous-queue/</loc>
+    <lastmod>2022-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/about-splay/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -121,10 +129,6 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/about-splay/</loc>
-    <lastmod>2022-08-02</lastmod>
-  </url>
-  <url>
     <loc>https://snow.js.org/ruler-method/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
@@ -133,11 +137,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/match-template/</loc>
+    <loc>https://snow.js.org/dp-linear/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/dp-linear/</loc>
+    <loc>https://snow.js.org/match-template/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
@@ -145,11 +149,11 @@
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/graph-tarjan/</loc>
+    <loc>https://snow.js.org/graph-lca/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/graph-lca/</loc>
+    <loc>https://snow.js.org/graph-tarjan/</loc>
     <lastmod>2022-08-02</lastmod>
   </url>
   <url>
