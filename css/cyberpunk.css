@@ -10282,6 +10282,10 @@ body > .section {
     background: rgba(0,0,0,0.24);
   }
 }
+code {
+  background-color: #f0f1f2 !important;
+  color: #363636;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;

@@ -412,13 +412,13 @@ button,
 input,
 select,
 textarea {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  font-family: "Punctuation SC", Inter, ui-sans-serif, system-ui, "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Heiti SC", "Microsoft YaHei", DengXian, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 body {
   color: #4a4a4a;
@@ -1064,19 +1064,19 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: "Punctuation SC", Inter, ui-sans-serif, system-ui, "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Heiti SC", "Microsoft YaHei", DengXian, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
 .is-family-secondary {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: "Punctuation SC", Inter, ui-sans-serif, system-ui, "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Heiti SC", "Microsoft YaHei", DengXian, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
 .is-family-sans-serif {
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: "Punctuation SC", Inter, ui-sans-serif, system-ui, "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Heiti SC", "Microsoft YaHei", DengXian, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
 .is-family-monospace {
   font-family: monospace !important;
 }
 .is-family-code {
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei' !important;
+  font-family: ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
 .is-block {
   display: block !important;
@@ -10281,6 +10281,10 @@ body > .section {
     background: rgba(0,0,0,0.24);
   }
 }
+code {
+  background-color: #f0f1f2 !important;
+  color: #363636;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
@@ -11299,7 +11303,7 @@ figure.highlight figcaption * {
 }
 figure.highlight figcaption span {
   font-weight: 500;
-  font-family: 'Source Code Pro', monospace, 'Microsoft YaHei';
+  font-family: ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 figure.highlight figcaption .level-left *:not(:last-child) {
   margin-right: 0.5em;
@@ -11597,7 +11601,7 @@ figure.highlight.foldable div.level-left {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: "Punctuation SC", Inter, ui-sans-serif, system-ui, "PingFang SC", "Noto Sans CJK SC", "Noto Sans SC", "Heiti SC", "Microsoft YaHei", DengXian, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
 }
 .cc-window {
   color: #4a4a4a !important;
